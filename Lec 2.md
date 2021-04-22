@@ -8,29 +8,29 @@ Some known adversarial examples:
 
 + Some **noises** or some **changes to some specific pixel**:
 
-![image-20210422161037018](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210422161037018.png)
+![image-20210422161037018](Image\image-20210422161037018.png)
 
 + **Geometric transformation**:
 
   Attacker can do some simple Geometric transformation to fool network.
 
-![image-20210422161206732](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210422161206732.png)
+![image-20210422161206732](Image\image-20210422161206732.png)
 
 + Adversarial examples in **Reinforcement Learning**:
 
   Attacker can disturb the image to fool the network.
 
-![image-20210422161652990](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210422161652990.png)
+![image-20210422161652990](Image\image-20210422161652990.png)
 
 + Adversarial examples in **NLP**:
 
   Attacker can add some adversarial words to fool network.
 
-![image-20210422161933079](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210422161933079.png)
+![image-20210422161933079](Image\image-20210422161933079.png)
 
 + Adversarial Examples in **Audio Processing**:
 
-![image-20210422162125435](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210422162125435.png)
+![image-20210422162125435](Image\image-20210422162125435.png)
 
 **In my opinion: these Adversarial Examples can fool the network just because the network have no such certification algorithm or some specific preset examples to check the small change within some acceptable range.**
 
@@ -60,6 +60,6 @@ This is a example the tells us that why our network or model can make mistake th
 
 **Neural Networks are too linear**, because linear functions are easy to optimize.
 
-![image-20210422165443574](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210422165443574.png)
+![image-20210422165443574](Image\image-20210422165443574.png)
 
 So more non-linearity can allow us to get rid of some potential adversarial examples.
