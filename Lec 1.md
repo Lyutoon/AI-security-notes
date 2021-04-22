@@ -4,13 +4,13 @@
 
 **Example 1:**
 
-![image-20210419192152098](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210419192152098.png)
+![image-20210419192152098](Image\image-20210419192152098.png)
 
 By adding a little bit noise, AI cannot recognize the picture correctly while humans unlikely to make these mistake.
 
 **Example 2:**
 
-![image-20210419192520097](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210419192520097.png)
+![image-20210419192520097](Image\image-20210419192520097.png)
 
 Attacker add some black and white blocks into the picture, then AI cannot recognize this correctly while humans can. This will cause dangers.
 
